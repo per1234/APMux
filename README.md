@@ -26,16 +26,16 @@ Control your multiplexer and switch from all of your new **48 pins** easily!
 
 ### MuxMode and MuxPosition:
 
-  enum MuxMode
-  {
-    DIGITAL_OUTPUT = 0,
-    DIGITAL_INPUT = 1,
-    ANALOG_INPUT = 2
-  };
+	  enum MuxMode
+	  {
+	    DIGITAL_OUTPUT = 0,
+	    DIGITAL_INPUT = 1,
+	    ANALOG_INPUT = 2
+	  };
 
-  enum MuxPosition
-  {
-    MUX_0 = 0,
-    MUX_1 = 1,
-    MUX_2 = 2
-  };
+	  enum MuxPosition
+	  {
+	    MUX_0 = 0,
+	    MUX_1 = 1,
+	    MUX_2 = 2
+	  };
