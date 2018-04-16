@@ -1,8 +1,8 @@
-##Arduino Multiplexer controller library.
+## Arduino Multiplexer controller library.
 
 Control your multiplexer and switch from all of your new **45 pins** easily!
 
-###Example of use:
+### Example of use:
 
 
 	#include "APMux.h"
