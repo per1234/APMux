@@ -1,5 +1,5 @@
-APMux KEYWORD1
-MuxPosition KEYWORD2
-muxDelay KEYWORD2
-enableMux KEYWORD2
-enableAllMux KEYWORD2
+APMux	KEYWORD1
+MuxPosition	KEYWORD2
+muxDelay	KEYWORD2
+enableMux	KEYWORD2
+enableAllMux	KEYWORD2
